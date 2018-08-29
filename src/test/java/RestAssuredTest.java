@@ -63,5 +63,8 @@ public class RestAssuredTest {
         delete(url + "users/11").then().statusCode(404);
     }
 
+
+
+    
 }
 
